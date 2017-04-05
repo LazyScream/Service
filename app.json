@@ -1,0 +1,6 @@
+{
+  "name": "WatchTV-Server",
+  "description": "Server for WatchTV app",
+  "repository": "https://github.com/shinrenpan/WatchTV-Server",
+  "keywords": ["WatchTV"]
+}
