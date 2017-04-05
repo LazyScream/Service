@@ -2,7 +2,7 @@ const request = require('request');
 
 module.exports = function (callback)
 {
-	request.get('https://raw.githubusercontent.com/shinrenpan/WatchTV-Server/master/shared/channels.json', function(error, response, body)
+	request.get('https://raw.githubusercontent.com/LazyScream/channels/master/channels.json', function(error, response, body)
 	{
 		try
 		{
