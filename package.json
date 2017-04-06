@@ -21,7 +21,7 @@
     "repository":
     {
         "type": "git",
-        "url": "https://github.com/shinrenpan/WatchTV-Server.git"
+        "url": "https://github.com/LazyScream/nodeForService"
     },
 
     "dependencies": 
