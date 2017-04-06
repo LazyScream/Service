@@ -1,9 +1,9 @@
 {
     "name": "gtmobiletv",
     "version": "1.0.0",
-    "description": "WatchTV server",
+    "description": "CrackWatch server",
     "main": "server.js",
-    "author": "Shinren Pan",
+    "author": "Lazy",
     "license": "MIT",
 
     "scripts":
@@ -32,6 +32,6 @@
 
     "keywords":
     [
-        "WatchTV"
+        "CrackWatch"
     ]
 }
